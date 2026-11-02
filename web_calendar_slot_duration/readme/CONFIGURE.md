@@ -1,6 +1,6 @@
-This documentation is for developers.
+﻿This documentation is for developers.
 
-If you want to configure your calendar view's snap duration, make sure
+If you want to configure your calendar view's slot duration, make sure
 that your window action includes a context similar to this (example is the
 default value):
 
